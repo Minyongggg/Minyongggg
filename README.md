@@ -18,16 +18,13 @@
 뭐라고 쓸까.................................뭐라고 쓸까.................................
 
 
-[//]: # ()
-[//]: # (---)
+## 🧑‍💻 Github Stats
 
-[//]: # (## 🧑‍💻 Github Stats)
 
-[//]: # ()
-[//]: # ([![Anurag's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=Minyongggg&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minyongggg&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[//]: # ()
-[//]: # (<br>)
+
+<br>
 
 ## 📚 Tech Stack
 ### 💡 Language & Framework

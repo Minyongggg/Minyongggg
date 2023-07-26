@@ -2,7 +2,6 @@
 
 <br>
 
----
 ## 🧑‍💻 Introduce
 뭐라고 쓸까.................................뭐라고 쓸까.................................
 뭐라고 쓸까.................................뭐라고 쓸까.................................
@@ -18,7 +17,6 @@
 뭐라고 쓸까.................................뭐라고 쓸까.................................
 뭐라고 쓸까.................................뭐라고 쓸까.................................
 
-<br>
 
 [//]: # ()
 [//]: # (---)
@@ -31,7 +29,6 @@
 [//]: # ()
 [//]: # (<br>)
 
----
 ## 📚 Tech Stack
 ### 💡 Language & Framework
 <p>
@@ -67,13 +64,11 @@
 
 <br>
 
----
 ## 📈 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=naminyong97)](https://solved.ac/naminyong97/)
 
 <br>
 
----
 ## 📜 History
 
 ### 📌 Education
@@ -104,7 +99,6 @@
 
 <br>
 
----
 ## 💌 Contact
 <p>
   <a href="https://github.com/Minyongggg/"><img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Minyongggg"/></a>

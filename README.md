@@ -68,11 +68,13 @@
 
 
 ### 📌 Organization
-`2021.03 ~ 2022.02` 고려대학교 SW벤처 학회 멋쟁이사자처럼 9기 학회원
+`2022.01 ~ 07` (주)바카티오 Backend Engineer
 <br>
 `2022.01 ~ 07` 고려대학교 SW벤처 학회 멋쟁이사자처럼 10기 운영진
 <br>
-`2022.01 ~ 07` (주)바카티오 Backend Engineer
+`2021.03 ~ 2022.02` 고려대학교 SW벤처 학회 멋쟁이사자처럼 9기 학회원
+<br>
+
 
 ### 📌 Project
 `2023.07 ~ ` 생성형 AI 기반 연애상담 솔루션 Heartee 기획・개발 [[Link](https://github.com/Minyongggg/api-heartee)]

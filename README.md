@@ -59,22 +59,13 @@
 
 ## 📜 History
 
-### 📌 Education
-`2017.03 ~ 2023.08` 고려대학교 문과대학 사회학과 수료
-<br>
-`2018.09 ~ 2023.08` 고려대학교 정보대학 컴퓨터학과 이중전공 수료
-<br>
-`2022.08 ~ 12` University at Buffalo, SUNY 교환학생
-
-
-### 📌 Organization
+### 📌 Experience
 `2022.01 ~ 07` (주)바카티오 Backend Engineer
 <br>
 `2022.01 ~ 07` 고려대학교 SW벤처 학회 멋쟁이사자처럼 10기 운영진
 <br>
 `2021.03 ~ 2022.02` 고려대학교 SW벤처 학회 멋쟁이사자처럼 9기 학회원
 <br>
-
 
 ### 📌 Project
 `2023.07 ~ ` 생성형 AI 기반 연애상담 솔루션 Heartee 기획・개발 [[Link](https://github.com/Minyongggg/api-heartee)]
@@ -83,6 +74,12 @@
 <br>
 `2021.05 ~ 06` 독강러 매칭 플랫폼 Codok 기획・개발 (고려대학교 멋쟁이사자처럼 해커톤 1위) [[Link](https://github.com/Minyongggg/Codok)]
 
+### 📌 Education
+`2017.03 ~ 2023.08` 고려대학교 문과대학 사회학과 수료
+<br>
+`2018.09 ~ 2023.08` 고려대학교 정보대학 컴퓨터학과 이중전공 수료
+<br>
+`2022.08 ~ 12` University at Buffalo, SUNY 교환학생
 
 <br>
 

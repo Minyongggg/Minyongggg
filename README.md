@@ -72,7 +72,7 @@
 <br>
 `2022.01 ~ 07` 개인 맞춤형 여행 컨시어지 서비스, 하우 개발 (現 <a href="https://apps.apple.com/kr/app/%ED%95%98%EC%9A%B0-%EC%A0%9C%EC%A3%BC%EB%8F%84-%EC%97%AC%ED%96%89-%EA%B0%90%EC%84%B1%EC%88%99%EC%86%8C-%ED%81%90%EB%A0%88%EC%9D%B4%EC%85%98-%EC%98%88%EC%95%BD%EA%B9%8C%EC%A7%80/id1573027302">감성숙소 큐레이션, 하우</a>)
 <br>
-`2021.05 ~ 06` 독강러 매칭 플랫폼 Codok 기획・개발 (고려대학교 멋쟁이사자처럼 해커톤 1위) [[Link](https://github.com/Minyongggg/Codok)]
+`2021.05 ~ 08` 독강러 매칭 플랫폼 Codok 기획・개발 (고려대학교 멋쟁이사자처럼 해커톤 1위) [[Link](https://github.com/Minyongggg/Codok)]
 
 ### 📌 Education
 `2017.03 ~ 2023.08` 고려대학교 문과대학 사회학과 수료
